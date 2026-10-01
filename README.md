@@ -1,5 +1,28 @@
-# 💫 About Me:
-معاك عبدالرحمن انا مهتم بتصميم وتطوير مواقع الويب وانا بحب احول اي فكره من مجرد فكره الى مشروع شيك وبراند ومنظم وResponsive، مع التركيز على تقديم تجربة استخدام واضحة وسهلة على مختلف الأجهزة.<br><br>الخدمات التي أقدمها<br><br>- تصميم وتطوير مواقع الشركات والمشاريع الصغيرة والStartups<br><br>- تصميم وتطوير Landing Pages<br><br>- إعادة تصميم وتطوير واجهات المواقع الحالية<br><br>- تصميم Responsive للموبايل والTablet والDesktop<br><br>- تحويل التصاميم والأفكار إلى مواقع Front-End متكاملة<br><br>- تطوير واجهات باستخدام HTML, CSS, JavaScript & Bootstrap<br><br>- تحسين تنظيم المحتوى وتجربة المستخدم داخل الموقع<br><br>وأهتم بتقديم كود منظم وواضح وسليم وقابل للتعديل باستخدام HTML, CSS, JavaScript, Bootstrap, Git & GitHub، وواجهة سهلة الاستخدام ومتوافقة مع مختلف أحجام الشاشات.<br><br>لو عجبك شغلي وحابب نشتغل مع بعض فيلا بينا ناخد الخطوة سوى وننفذ حاجه جديده في السوق ونحوّل فكرتك لمشروع احترافي يناسبك ويقدم قيمة حقيقية لعملائك.
+# 💫 About Me:Hi, I’m Abdelrahman Nagah a Web Designer & Front-End Developer passionate about turning ideas into modern, responsive, and user-focused websites.
+
+I help businesses, startups, and personal brands build a strong online presence through clean web design and responsive front-end development.
+
+My work focuses on creating websites that are not only visually appealing, but also easy to navigate, responsive across different devices, and designed with the user experience in mind.
+
+My core skills include:
+
+• HTML
+
+• CSS
+
+• JavaScript
+
+• Responsive Web Design
+
+• Front-End Development
+
+• Modern UI Design
+
+Alongside my practical work in web development, I’m studying Intelligent Systems Engineering, continuously expanding my technical knowledge and improving my ability to build better digital experiences.
+
+I’m currently open to freelance projects, remote opportunities, and collaborations with businesses, startups, and personal brands.
+
+If you have an idea for a website and want to turn it into a modern digital experience, feel free to connect with me.
 
 
 ## 🌐 Socials:
