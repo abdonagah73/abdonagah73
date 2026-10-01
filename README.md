@@ -1,4 +1,6 @@
-# 💫 About Me:Hi, I’m Abdelrahman Nagah a Web Designer & Front-End Developer passionate about turning ideas into modern, responsive, and user-focused websites.
+# 💫 About Me: 
+
+Hi, I’m Abdelrahman Nagah a Web Designer & Front-End Developer passionate about turning ideas into modern, responsive, and user-focused websites.
 
 I help businesses, startups, and personal brands build a strong online presence through clean web design and responsive front-end development.
 
